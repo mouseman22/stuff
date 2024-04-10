@@ -18,5 +18,7 @@ You Should now have "stuff" in you bookmarks bar.
 
 If your school/organization has blocked bookmarks I have no way to help you :(
 
+Commits are open feel free to commit any of your bookmarklets/websites and make a pull request
+
 
     
