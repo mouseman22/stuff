@@ -10,8 +10,8 @@ Install the collection by
 
 ```
 ctrl + shift + o
-Selecting the 3 dots in the top right corner
-Selecting import bookmarks
+Select the 3 dots in the top right corner
+Then select import bookmarks
 Then chose the downloaded html file
 ```
 You Should now have "stuff" in you bookmarks bar.
