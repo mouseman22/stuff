@@ -1,7 +1,7 @@
 
 # Stuff
 
-A collection of over 200 bookmarklets, for staying off task in school
+A collection of  ~400 bookmarklets, for staying off task in school
 
 
 ## Installation
@@ -19,6 +19,3 @@ You Should now have "stuff" in you bookmarks bar.
 If your school/organization has blocked bookmarks I have no way to help you :(
 
 Commits are open feel free to commit any of your bookmarklets/websites and make a pull request
-
-
-    
